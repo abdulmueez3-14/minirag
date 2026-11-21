@@ -1,0 +1,10 @@
+RAIT College Examination Rules
+
+Students must score at least 40 marks out of
+100 to pass a subject.
+
+The examination consists of internal assessment
+and an end semester examination.
+
+Students who fail to meet the minimum passing
+criteria must appear for a re-examination.
